@@ -52,7 +52,7 @@
     let contador_cards2 = 0; // contamos las cartas
     
     for (const propiedad2 of propiedades_alquiler) {
-      if (contador_cards2 < 3) {
+      if (contador_cards2 < 4) {
         const FumarHtml2 = propiedad2.Fumar//forma terciaria de un if mas resumido visto en ayudantia si es true toma la primera opcion sino toma lo de : en adelante
           ? `<p class="text-success"><i class="fas fa-smoking"></i> Permitido fumar</p>`
           : `<p class="text-danger"><i class="fas fa-smoking-ban"></i> No se permite fumar</p>`
