@@ -9,7 +9,7 @@
       banos: 2,
       precio: 2000,
       Fumar: false ,
-      Mascotas: false
+      Mascotas: true
     },
     {
       nombre: "Apartamento luminoso con vista al mar",
@@ -42,7 +42,7 @@
       banos: 2,
       precio: 3200,
       Fumar: false,
-      Mascotas: false
+      Mascotas: true
       }
   ];
 
